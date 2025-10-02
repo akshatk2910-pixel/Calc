@@ -10,9 +10,10 @@ function clearDisplay(){
 function Calculate(){
     try{
       //   display.value = eval(display.value);
-        display.value = "simu bbg ❤️";
+        display.value = "I Like you ❤️";
     }
     catch(error){
         display.value = "Error"
     }
 }
+
